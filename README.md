@@ -5,3 +5,4 @@
 
 ### Also check out-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey0610)](https://github.com/Shrey0610/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey0610&layout=compact)
