@@ -5,3 +5,4 @@
 
 ### Also check out-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey0610&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shrey0610&theme=radical)](https://git.io/streak-stats)
