@@ -3,13 +3,15 @@
 [![Shrey0610's GitHub | Stats](https://stats.quine.sh/Shrey0610/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrey0610)
 [![Shrey0610's GitHub | Dependencies](https://stats.quine.sh/Shrey0610/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrey0610)
 
+
+### [![An image of @shrey0610's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrey0610)](https://holopin.io/@shrey0610)
+
+
 ### Also check out-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey0610&langs_count=8)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shrey0610&theme=radical)](https://git.io/streak-stats)
 
 ### https://bento.me/shreyshah
-
-### [![An image of @shrey0610's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrey0610)](https://holopin.io/@shrey0610)
 
 <h1 align="center">Hi 👋, I'm Shrey Shah</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
