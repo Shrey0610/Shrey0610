@@ -9,7 +9,7 @@
 
 ### https://bento.me/shreyshah
 
-### https://holopin.io/@Shrey0610
+### [![An image of @shrey0610's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrey0610)](https://holopin.io/@shrey0610)
 
 <h1 align="center">Hi 👋, I'm Shrey Shah</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
