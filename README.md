@@ -11,20 +11,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey0610&langs_count=8)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shrey0610&theme=radical)](https://git.io/streak-stats)
 
-### https://bento.me/shreyshah
 
-<h1 align="center">Hi 👋, I'm Shrey Shah</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrey0610" alt="shrey0610" /></a> </p>
 
-- 🔭 I’m currently working on [Vidhyayatriai](https://github.com/Shrey0610/firevercocean1.0-hackathon)
-
-- 🌱 I’m currently learning **MERN Stack, Langchain**
-
-- 💬 Ask me about **React, HTML, CSS, JS, Python, Java.**
-
-- 📫 How to reach me **shreyshah241@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/186rXhf6_--MW5M85Mblc5n7DHsqqdrXr/view?usp=sharing](https://drive.google.com/file/d/186rXhf6_--MW5M85Mblc5n7DHsqqdrXr/view?usp=sharing)
 
