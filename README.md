@@ -17,8 +17,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrey0610" alt="shrey0610" /></a> </p>
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/186rXhf6_--MW5M85Mblc5n7DHsqqdrXr/view?usp=sharing](https://drive.google.com/file/d/186rXhf6_--MW5M85Mblc5n7DHsqqdrXr/view?usp=sharing)
-
 - ⚡ Fun fact **I am good at art**
 
 <h3 align="left">Connect with me:</h3>
