@@ -1,4 +1,6 @@
 ### Hi there 👋
+⚡ Fun fact **I am good at art**
+
 ## Check out my work here 🚀-
 [![Shrey0610's GitHub | Stats](https://stats.quine.sh/Shrey0610/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrey0610)
 [![Shrey0610's GitHub | Dependencies](https://stats.quine.sh/Shrey0610/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrey0610)
@@ -23,12 +25,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey0610&langs_count=8)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shrey0610&theme=radical)](https://git.io/streak-stats)
 
-
-<h3 align="center">A passionate full stack web developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrey0610" alt="shrey0610" /></a> </p>
-
-⚡ Fun fact **I am good at art**
 
 
 <h3 align="left">Languages and Tools:</h3>
