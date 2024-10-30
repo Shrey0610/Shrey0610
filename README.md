@@ -2,11 +2,11 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shrey0610" />
 </p>
 
-<h1 align="center"> Hi there 👋, I'm <a href="https://www.linkedin.com/in/shrey-shah-06o10/">Shrey Shah</a></h1>
+<h1 align="center"> Hi there 👋, I'm <a href="https://www.linkedin.com/in/shrey-shah-06o10/" target="_blank">Shrey Shah</a></h1>
 <p align="center">
-  <a href="http://shreyshah.me/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/shrey-shah-06o10/">LinkedIn</a> - 
-  <a href="https://theartenchantment.notion.site/The-Art-Enchantment-27e24f19ca314e22bdcc045d6402c3ee">Art Blog</a> 
+  <a href="http://shreyshah.me/" target="_blank">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/shrey-shah-06o10/" target="_blank">LinkedIn</a> - 
+  <a href="https://theartenchantment.notion.site/The-Art-Enchantment-27e24f19ca314e22bdcc045d6402c3ee" target="_blank">Art Blog</a> 
 </p>
 
 -----------------------------------------------------------
