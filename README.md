@@ -16,8 +16,8 @@
 [![Shrey0610's GitHub | Dependencies](https://stats.quine.sh/Shrey0610/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shrey0610)
 
 <br>
-<!-- <img align="right" src="https://www.codedex.io/api/petStatus?user=Shrey0610" alt="Profile Image" width="250" height="250"/> -->
-<img align="right" src=" https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" width="250" height="250" />
+<img align="right" src="https://www.codedex.io/api/petStatus?user=Shrey0610" alt="Profile Image" width="250" height="250"/>
+
 
 
 - 🌱 **Currently Working On:** [Morbius](http://github.com/Shrey0610/Morbius)<br>
