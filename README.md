@@ -33,6 +33,10 @@
   <br>
   <table width="100%" align="center">
     <tr>
+      <th>Program</th>
+      <th>Description</th>
+    </tr>
+    <tr>
       <td>HactoberFest'2024 </td>
       <td>
         <ul>
@@ -67,9 +71,11 @@
     </tr>
     <tr>
       <td><a href="https://serene-initiative.netlify.app/">Serene Initiative</a></td>
-      <td> Serene: Your Gateway to Tranquility. Dive into a serene environment designed to help you relax, meditate, and focus. Serene offers a variety of calming sounds, guided meditations, and mindfulness exercises to enhance your mental well-being.
-
-</td>
+      <td> Serene: Your Gateway to Tranquility. Dive into a serene environment designed to help you relax, meditate, and focus. Serene offers a variety of calming sounds, guided meditations, and mindfulness exercises to enhance your mental well-being.</td>
+    </tr>
+      <tr>
+      <td><a href="https://github.com/Shrey0610/ForNature.github.io/">ForNature</a></td>
+      <td> At ForNature, we empower individuals to repurpose and recycle broken items, fostering a greener planet. Here you'll get AI generated ways on how to recycle your items and also you'll get to learn about recycling techniques and identify toxic materials, ensuring safe practices. With a commitment to environmental stewardship, our platform harnesses cutting-edge technology to transform waste into opportunity.</td>
     </tr>
   </table>
 </details>
