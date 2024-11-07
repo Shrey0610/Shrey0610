@@ -33,6 +33,13 @@
   <br>
   <table width="100%" align="center">
     <tr>
+      <td>HactoberFest-2024 </td>
+      <td>
+        <ul>
+          <li>Role: <strong>Open Source Contributor</strong></li>
+          <li>[Link to project](https://github.com/CodeQuestic/OpenPrep.git)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>GirlScript Summer of Code (GSSoC'24) </td>
