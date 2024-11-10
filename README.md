@@ -178,6 +178,9 @@
 <td>
   <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey0610&theme=radical" alt="Profile Summary">
 </td>
+  <td>
+    <img width= "600em" src="https://roadmap.sh/card/wide/673079eb31d65c235dbe003b?variant=dark" alt= "My Roadmap Profile">
+  </td>
 </tr>
 </table>
 
