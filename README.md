@@ -179,19 +179,8 @@
   <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey0610&theme=radical" alt="Profile Summary">
 </td>
   <td>
-    <img width= "600em" src="https://roadmap.sh/card/wide/673079eb31d65c235dbe003b?variant=dark" alt= "My Roadmap Profile">
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/673079eb31d65c235dbe003b?variant=dark&roadmaps=ai-engineer%2Cmachine-learning%2Creact%2Cjavascript" alt="My Roadmap.sh Profile Summary"/></a>
   </td>
-</tr>
-</table>
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Shrey0610&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com?user=Shrey0610&theme=radical" alt="Streak Stats"/>
-</td>
 </tr>
 </table>
 <br>
